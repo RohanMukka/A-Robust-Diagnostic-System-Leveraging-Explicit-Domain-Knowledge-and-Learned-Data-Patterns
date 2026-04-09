@@ -66,4 +66,7 @@ The system first attempts rule-based diagnosis via the ontology. If no definitiv
 
 ## Authors
 
-Rohan Mukka — University of Oklahoma / CVR College of Engineering
+Akhil Puttabanthi — CVR College of Engineering
+Rohan Mukka — CVR College of Engineering
+Shaik Samad Rizwan — CVR College of Engineering
+
